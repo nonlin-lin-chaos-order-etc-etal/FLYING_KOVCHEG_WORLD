@@ -1,0 +1,5 @@
+ГРАВИЦАПА_ДЛЯ_ANDROID_GNU_LINUX
+
+BEGIN
+
+END ГРАВИЦАПА_ДЛЯ_ANDROID_GNU_LINUX.
