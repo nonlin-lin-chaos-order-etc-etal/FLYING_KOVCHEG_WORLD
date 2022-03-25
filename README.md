@@ -2,6 +2,8 @@
 
 ЛЕТУЧИЙ МИР "КОВЧЕГ" :: :: FLYING "KOVCHEG" WORLD :: :: OBERON WAY
 
+ЗЕМЛЯ ПРОЩАЙ В ДОБРЫЙ ПУТЬ
+
 ## TRANSCEIVERMODULE
 
 TRANSCEIVERMODULE
