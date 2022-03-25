@@ -1,0 +1,5 @@
+MODULE ГРАВИЦАПА_ДЛЯ_UBUNTU_GNU_LINUX
+
+BEGIN
+
+END ГРАВИЦАПА_ДЛЯ_UBUNTU_GNU_LINUX.
